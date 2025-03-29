@@ -126,7 +126,14 @@ README.md             - Project documentation
 
 ---
 
-## 7. Contributors
+## 7.Conclusion
+
+This exploratory data analysis has provided valuable insights into the factors that contribute to the success of movies. By analyzing IMDb data, we identified key trends in movie ratings, audience engagement, and genre popularity. The findings suggest that certain genres consistently perform well at the box office and receive higher audience ratings. Additionally, factors such as language, region, and runtime influence a movie's success.
+
+These insights will help the new movie studio make data-driven decisions regarding film production, ensuring a higher likelihood of financial success. Moving forward, the studio should focus on high-performing genres, optimize budget allocation based on revenue trends, and stay aligned with market demands to maximize audience engagement and profitability
+
+
+## 8. Contributors
 
 - **Austine Otieno**  
 - **Endalkachew Dessalegne**  
